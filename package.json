@@ -1,0 +1,14 @@
+{
+  "name": "room-booking",
+  "version": "0.1.0",
+  "description": "Meeting room booking tool",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
